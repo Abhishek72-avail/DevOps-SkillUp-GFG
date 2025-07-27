@@ -10,9 +10,9 @@ CPU_THRESHOLD = 5     # percent
 MEMORY_THRESHOLD = 5  # percent
 CHECK_INTERVAL = 300   # seconds = 5 minutes
 
-EMAIL_FROM = "abhishekprasad7250@gmail.com"
-EMAIL_TO = "abhishekhprasad4029@gmail.com"
-EMAIL_PASSWORD = "pgwc owco dcwg eejg"
+EMAIL_FROM = "abhishekprasad12345@gmail.com"
+EMAIL_TO = "abhishekhprasad1234@gmail.com"
+EMAIL_PASSWORD = "enter your password "
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
